@@ -1,0 +1,15 @@
+{
+"MainNet":
+  [
+    {"address": "0xdAC17F958D2ee523a2206206994597C13D831ec7", "name": "USDT",   "isPopular": true, "network": 1},
+    {"address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667", "name": "CELR",   "isPopular": true, "network": 1},
+    {"address": "0xf28164A485B0B2C90639E47b0f377b4a438a16B1", "name": "QUICK",   "isPopular": true, "network": 137},
+    {"address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1", "name": "BSW",   "isPopular": true, "network": 56},
+    {"address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69", "name": "IOTX",   "isPopular": true, "network": 1},
+    {"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "name": "USDC",   "isPopular": true, "network": 1}
+  ],
+"xDAI":
+  [
+    {"address": "0xa16b70e8fad839e62abba2d962e4ca5a28af9e76", "isPopular": false, "network": 100}
+  ]
+}
